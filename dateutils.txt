@@ -1,4 +1,7 @@
 public class Date{
 public void dateNotFound(){
 }
+public add(){
+}
+
 }
